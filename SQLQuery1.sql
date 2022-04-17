@@ -13,7 +13,7 @@ VALUES ('Jale Quliyeva'),
 ('Ilknur Ezizov')
 
 
-SELECT * FROM Employee
+SELECT * FROM Employee 
 
 
 

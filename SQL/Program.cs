@@ -12,7 +12,7 @@ namespace SQL
         {
             //1
 
-            Console.WriteLine("Id-ni daxil edin:");
+            Console.WriteLine("Id daxil edin:");
             int id = Convert.ToInt32(Console.ReadLine());
             await GetEmployeeById(id);
 
@@ -28,13 +28,13 @@ namespace SQL
 
             //4
 
-            Console.WriteLine("Id daxil edin");
+            Console.WriteLine("Id daxil edin:");
             int id1 = Convert.ToInt32(Console.ReadLine());
             await DeleteEmployee(id1);
 
-            ////5
+            //5
 
-            Console.WriteLine("Search daxil edin");
+            Console.WriteLine("Search daxil edin:");
             string search = Console.ReadLine();
             await FilterByName(search);
 
@@ -47,7 +47,8 @@ namespace SQL
             {
                 connection.Open();
               
-                string command = $"SELECT Fullname From Employee WHERE Id={id}";
+                string command = $"SELECT Fullname FROM  Employee WHERE Id={id}";
+                //string command = $"SELECT * FROM  Employee WHERE Id={id}";
 
                 using (SqlCommand sqlCommand = new SqlCommand(command, connection))
                 {
@@ -74,9 +75,10 @@ namespace SQL
                
                     connection.Open();
 
-                    string command = $"SELECT * FROM Employee ";
+                    string command = $"SELECT Fullname  FROM Employee ";
+                 // string command = $"SELECT *  FROM Employee ";
 
-                    using (SqlCommand sqlCommand = new SqlCommand(command, connection))
+                using (SqlCommand sqlCommand = new SqlCommand(command, connection))
                     {
 
                     SqlDataReader reader = sqlCommand.ExecuteReader();
@@ -126,6 +128,7 @@ namespace SQL
                 connection.Open();
                 
                 string command = $"DELETE FROM Employee WHERE Id= {id}";
+              
 
                 using (SqlCommand sqlCommand = new SqlCommand(command, connection))
                 {
