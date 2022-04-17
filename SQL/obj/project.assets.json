@@ -530,11 +530,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TOSHIBA\\Desktop\\SQL\\SQL\\SQL.csproj",
+      "projectUniqueName": "C:\\Users\\TOSHIBA\\Desktop\\C# Ado.Net,Sqllnjection\\SQL\\SQL.csproj",
       "projectName": "SQL",
-      "projectPath": "C:\\Users\\TOSHIBA\\Desktop\\SQL\\SQL\\SQL.csproj",
+      "projectPath": "C:\\Users\\TOSHIBA\\Desktop\\C# Ado.Net,Sqllnjection\\SQL\\SQL.csproj",
       "packagesPath": "C:\\Users\\TOSHIBA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TOSHIBA\\Desktop\\SQL\\SQL\\obj\\",
+      "outputPath": "C:\\Users\\TOSHIBA\\Desktop\\C# Ado.Net,Sqllnjection\\SQL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\TOSHIBA\\AppData\\Roaming\\NuGet\\NuGet.Config",

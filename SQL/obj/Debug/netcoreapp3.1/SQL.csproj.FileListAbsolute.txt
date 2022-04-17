@@ -21,3 +21,49 @@ C:\Users\TOSHIBA\Desktop\SQL\SQL\obj\Debug\netcoreapp3.1\SQL.csproj.CopyComplete
 C:\Users\TOSHIBA\Desktop\SQL\SQL\obj\Debug\netcoreapp3.1\SQL.dll
 C:\Users\TOSHIBA\Desktop\SQL\SQL\obj\Debug\netcoreapp3.1\SQL.pdb
 C:\Users\TOSHIBA\Desktop\SQL\SQL\obj\Debug\netcoreapp3.1\SQL.genruntimeconfig.cache
+C:\Users\TOSHIBA\Desktop\SQL - Kopya\SQL\bin\Debug\netcoreapp3.1\SQL.exe
+C:\Users\TOSHIBA\Desktop\SQL - Kopya\SQL\bin\Debug\netcoreapp3.1\SQL.deps.json
+C:\Users\TOSHIBA\Desktop\SQL - Kopya\SQL\bin\Debug\netcoreapp3.1\SQL.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\SQL - Kopya\SQL\bin\Debug\netcoreapp3.1\SQL.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\SQL - Kopya\SQL\bin\Debug\netcoreapp3.1\SQL.dll
+C:\Users\TOSHIBA\Desktop\SQL - Kopya\SQL\bin\Debug\netcoreapp3.1\SQL.pdb
+C:\Users\TOSHIBA\Desktop\SQL - Kopya\SQL\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\TOSHIBA\Desktop\SQL - Kopya\SQL\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\TOSHIBA\Desktop\SQL - Kopya\SQL\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\TOSHIBA\Desktop\SQL - Kopya\SQL\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\TOSHIBA\Desktop\SQL - Kopya\SQL\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\TOSHIBA\Desktop\SQL - Kopya\SQL\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\TOSHIBA\Desktop\SQL - Kopya\SQL\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\TOSHIBA\Desktop\SQL - Kopya\SQL\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\TOSHIBA\Desktop\SQL - Kopya\SQL\obj\Debug\netcoreapp3.1\SQL.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\SQL - Kopya\SQL\obj\Debug\netcoreapp3.1\SQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\SQL - Kopya\SQL\obj\Debug\netcoreapp3.1\SQL.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\SQL - Kopya\SQL\obj\Debug\netcoreapp3.1\SQL.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\SQL - Kopya\SQL\obj\Debug\netcoreapp3.1\SQL.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\SQL - Kopya\SQL\obj\Debug\netcoreapp3.1\SQL.csproj.CopyComplete
+C:\Users\TOSHIBA\Desktop\SQL - Kopya\SQL\obj\Debug\netcoreapp3.1\SQL.dll
+C:\Users\TOSHIBA\Desktop\SQL - Kopya\SQL\obj\Debug\netcoreapp3.1\SQL.pdb
+C:\Users\TOSHIBA\Desktop\SQL - Kopya\SQL\obj\Debug\netcoreapp3.1\SQL.genruntimeconfig.cache
+C:\Users\TOSHIBA\Desktop\C# Ado.Net,Sqllnjection\SQL\bin\Debug\netcoreapp3.1\SQL.exe
+C:\Users\TOSHIBA\Desktop\C# Ado.Net,Sqllnjection\SQL\bin\Debug\netcoreapp3.1\SQL.deps.json
+C:\Users\TOSHIBA\Desktop\C# Ado.Net,Sqllnjection\SQL\bin\Debug\netcoreapp3.1\SQL.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\C# Ado.Net,Sqllnjection\SQL\bin\Debug\netcoreapp3.1\SQL.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\C# Ado.Net,Sqllnjection\SQL\bin\Debug\netcoreapp3.1\SQL.dll
+C:\Users\TOSHIBA\Desktop\C# Ado.Net,Sqllnjection\SQL\bin\Debug\netcoreapp3.1\SQL.pdb
+C:\Users\TOSHIBA\Desktop\C# Ado.Net,Sqllnjection\SQL\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\TOSHIBA\Desktop\C# Ado.Net,Sqllnjection\SQL\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\TOSHIBA\Desktop\C# Ado.Net,Sqllnjection\SQL\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\TOSHIBA\Desktop\C# Ado.Net,Sqllnjection\SQL\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\TOSHIBA\Desktop\C# Ado.Net,Sqllnjection\SQL\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\TOSHIBA\Desktop\C# Ado.Net,Sqllnjection\SQL\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\TOSHIBA\Desktop\C# Ado.Net,Sqllnjection\SQL\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\TOSHIBA\Desktop\C# Ado.Net,Sqllnjection\SQL\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\TOSHIBA\Desktop\C# Ado.Net,Sqllnjection\SQL\obj\Debug\netcoreapp3.1\SQL.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\C# Ado.Net,Sqllnjection\SQL\obj\Debug\netcoreapp3.1\SQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\C# Ado.Net,Sqllnjection\SQL\obj\Debug\netcoreapp3.1\SQL.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\C# Ado.Net,Sqllnjection\SQL\obj\Debug\netcoreapp3.1\SQL.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\C# Ado.Net,Sqllnjection\SQL\obj\Debug\netcoreapp3.1\SQL.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\C# Ado.Net,Sqllnjection\SQL\obj\Debug\netcoreapp3.1\SQL.csproj.CopyComplete
+C:\Users\TOSHIBA\Desktop\C# Ado.Net,Sqllnjection\SQL\obj\Debug\netcoreapp3.1\SQL.dll
+C:\Users\TOSHIBA\Desktop\C# Ado.Net,Sqllnjection\SQL\obj\Debug\netcoreapp3.1\SQL.pdb
+C:\Users\TOSHIBA\Desktop\C# Ado.Net,Sqllnjection\SQL\obj\Debug\netcoreapp3.1\SQL.genruntimeconfig.cache
